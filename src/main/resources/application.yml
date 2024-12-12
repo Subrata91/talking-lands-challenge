@@ -1,0 +1,8 @@
+spring:
+  application:
+    name:
+      talking-lands-challenge
+
+  data:
+    mongodb:
+      uri: mongodb+srv://Subrata7877:gJpVI5V98Y6i@cluster0.jas4j.mongodb.net/user_authentication?retryWrites=true&w=majority&appName=Cluster0
